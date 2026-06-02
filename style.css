@@ -484,3 +484,7 @@ body{
 .nav-links a[href="#services"]:hover{
     color:#7c5cff;
 }
+
+a {
+  text-decoration: none;
+}
